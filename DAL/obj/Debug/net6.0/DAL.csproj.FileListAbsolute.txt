@@ -1,0 +1,12 @@
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\bin\Debug\net6.0\DAL.dll
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\bin\Debug\net6.0\DAL.pdb
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.dll
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\DAL.pdb
+F:\formation\CSharp\Avancer\DBTache\ExoTache\DAL\obj\Debug\net6.0\ref\DAL.dll

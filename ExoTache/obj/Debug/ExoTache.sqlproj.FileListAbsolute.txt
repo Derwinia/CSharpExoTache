@@ -1,0 +1,6 @@
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\bin\Debug\ExoTache.dacpac
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\bin\Debug\ExoTache.dll
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\bin\Debug\ExoTache.pdb
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\obj\Debug\ExoTache.sqlproj.AssemblyReference.cache
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\obj\Debug\ExoTache.dll
+F:\formation\CSharp\Avancer\DBTache\ExoTache\ExoTache\obj\Debug\ExoTache.pdb
